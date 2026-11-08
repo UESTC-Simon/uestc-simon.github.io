@@ -20,7 +20,7 @@ npm test
 npm run build
 ```
 
-The static website is generated in `out/`. GitHub Actions builds and publishes every push to `main`.
+The static website is generated in `out/`. GitHub Pages serves the `gh-pages` branch. After editing, run `npm run deploy:pages` to build locally and publish the generated pages; Git authenticates through the local credential manager. The optional Actions workflow can be triggered manually when Actions is enabled for the account. Source lives on `main`; commit and push source edits separately to keep the repository up to date.
 
 Edit `lib/profile.ts` to update profile, research, projects and contact links. Add Markdown posts in `content/posts/`; only posts with `draft: false` appear on the site. This public repository contains source files, so draft files committed here are publicly readable even while hidden from the website. Keep private drafts outside the repository until ready to share.
 

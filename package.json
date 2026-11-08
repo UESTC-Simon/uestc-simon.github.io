@@ -11,7 +11,8 @@
     "build:pages": "node scripts/build-pages.mjs",
     "typecheck": "tsc --noEmit --incremental false",
     "test": "node --experimental-strip-types --test tests/content.test.mjs",
-    "content:check": "node scripts/content.mjs --check"
+    "content:check": "node scripts/content.mjs --check",
+    "deploy:pages": "node scripts/publish-pages.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
