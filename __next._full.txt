@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[7501,["556","static/chunks/556-d9164a5f11dbe2c8.js","177","static/chunks/app/layout-4ea019ca8b844daf.js"],"SiteProvider"]
+3:I[7501,["556","static/chunks/556-d9164a5f11dbe2c8.js","177","static/chunks/app/layout-4ea019ca8b844daf.js"],"SiteShell"]
+4:I[837,[],""]
+5:I[5729,[],""]
+6:I[8754,["556","static/chunks/556-d9164a5f11dbe2c8.js","282","static/chunks/282-a06ccc4dfdd6b91a.js","754","static/chunks/754-a3dfbd4f70d8db20.js","974","static/chunks/app/page-956adfc4e28dce6f.js"],"NotFoundPage"]
+7:I[8754,["556","static/chunks/556-d9164a5f11dbe2c8.js","282","static/chunks/282-a06ccc4dfdd6b91a.js","754","static/chunks/754-a3dfbd4f70d8db20.js","974","static/chunks/app/page-956adfc4e28dce6f.js"],"HomePage"]
+8:I[3896,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[3896,[],"ViewportBoundary"]
+d:I[3896,[],"MetadataBoundary"]
+f:I[807,[],"default",1]
+:HL["/_next/static/css/a6221355f70188b4.css","style"]
+:HL["/_next/static/css/93bb71c92d59cce5.css","style"]
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a6221355f70188b4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93bb71c92d59cce5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L7",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/93bb71c92d59cce5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$Le"}]}]}],null]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"0gAAQDQJe_lFyXCqDpoI3"}
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:I[3041,[],"IconMark"]
+a:null
+e:[["$","title","0",{"children":"Shiteng Lu · Research & Fieldnotes"}],["$","meta","1",{"name":"description","content":"Shiteng Lu — undergraduate at UESTC and research intern at Tsinghua University. Research in AI safety, efficient neural networks, and an emerging interest in neuroscience."}],["$","meta","2",{"property":"og:title","content":"Shiteng Lu · Research & Fieldnotes"}],["$","meta","3",{"property":"og:description","content":"Research, experiments, and ideas in progress."}],["$","meta","4",{"property":"og:type","content":"website"}],["$","meta","5",{"name":"twitter:card","content":"summary"}],["$","meta","6",{"name":"twitter:title","content":"Shiteng Lu · Research & Fieldnotes"}],["$","meta","7",{"name":"twitter:description","content":"Research, experiments, and ideas in progress."}],["$","link","8",{"rel":"icon","href":"/favicon.svg"}],["$","$L10","9",{}]]
