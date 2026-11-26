@@ -38,12 +38,12 @@ const checks = [];
 function check(label, run) { checks.push({ label, run }); }
 
 const routes = [
-  { path: '/', heading: /Shiteng Lu/, markers: ['RESEARCH', 'FIELDNOTES'] },
-  { path: '/research', heading: /Questions, made concrete\./, markers: ['ICSE 2027', 'FALCON'] },
+  { path: '/', heading: /Shiteng Lu/, markers: ['RESEARCH', 'FIELDNOTES', 'GitHub', 'DrawScore', 'NISB'] },
+  { path: '/research', heading: /Questions, made concrete\./, markers: ['CVPR 2027', 'DrawScore', 'ICSE 2027', 'FALCON'] },
   { path: '/projects', heading: /A workshop for ideas\./, markers: ['CAD', 'NISB', 'Looped'] },
   { path: '/writing', heading: /A notebook, left open\./, markers: ['Research notes, longer reflections'] },
-  { path: '/about', heading: /Hello, I’m Shiteng\./, markers: ['UESTC', 'Ziyin Liu'] },
-  { path: '/cv', heading: /Shiteng Lu/, markers: ['CURRICULUM VITAE', 'FALCON'] },
+  { path: '/about', heading: /Hello, I’m Shiteng\./, markers: ['UESTC', 'Ziyin Liu', 'GitHub'] },
+  { path: '/cv', heading: /Shiteng Lu/, markers: ['CURRICULUM VITAE', 'DrawScore', 'FALCON', 'GitHub'] },
 ];
 
 for (const route of routes) check(route.path, async () => {
